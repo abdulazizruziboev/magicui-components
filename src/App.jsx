@@ -92,7 +92,7 @@ function App() {
         <PixelPhoto/>
         <BorderBeamCard/>
       </div>
-      <div className="fixed inset-0 h-screen w-screen">
+      <div className="fixed inset-0 h-screen w-screen ">
         <MeteorDemo/>
       </div>
     </div>
